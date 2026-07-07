@@ -1,5 +1,32 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- AI-powered applications using Large Language Models (LLMs), RAG, and Multi-Agent Systems<br>- End-to-end Machine Learning and Data Science projects with Streamlit<br>- Building intelligent document analysis and chatbot systems using LangChain, LangGraph, Pinecone, and Groq<br>- Expanding my portfolio with real-world AI and ML projects<br><br>👯 I’m looking to collaborate on<br>- Open Source AI/ML projects<br>- Generative AI, RAG, and Multi-Agent Systems<br>- Machine Learning and Data Science applications<br>- Python-based automation and developer tools<br><br>🤝 I’m looking for help with<br>- Advanced LLM optimization and AI system architecture<br>- MLOps, Docker, Kubernetes, and cloud deployment (AWS/GCP/Azure)<br>- Production-ready AI applications<br>- Open Source contributions and best software engineering practices<br><br>🌱 I’m currently learning<br>- Generative AI and Agentic AI<br>- Large Language Models (LLMs)<br>- Retrieval-Augmented Generation (RAG)<br>- LangGraph & LangChain<br>- Pinecone Vector Databases<br>- Machine Learning & Deep Learning<br>- Data Structures & Algorithms (Python)<br>- MLOps and AI Deployment<br><br>💬 Ask me about<br>- Python<br>- Machine Learning<br>- Data Science<br>- Generative AI<br>- Retrieval-Augmented Generation (RAG)<br>- LangChain & LangGraph<br>- Streamlit<br>- Pinecone<br>- AI Chatbots<br>- Data Visualization<br>- Git & GitHub<br><br>⚡ Fun fact<br>I enjoy turning complex AI ideas into practical applications and love building projects that solve real-world problems—from fraud detection systems to multi-agent AI assistants.
+🔭 I’m currently working on
+- AI-powered applications using LLMs, RAG & Multi-Agent Systems
+- Machine Learning and Data Science projects
+- Intelligent chatbots and document analysis systems
+
+👯 I’m looking to collaborate on
+- Open Source AI/ML projects
+- Generative AI & Agentic AI
+- Python automation tools
+
+🤝 I’m looking for help with
+- MLOps & Cloud Deployment
+- Production-ready AI systems
+- Open Source contributions
+
+🌱 I’m currently learning
+- Generative AI & Agentic AI
+- LLMs, RAG, LangChain & LangGraph
+- Deep Learning & MLOps
+
+💬 Ask me about
+- Python
+- Machine Learning & Data Science
+- Generative AI & RAG
+- Streamlit & LangChain
+
+⚡ Fun fact
+I love building AI solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
