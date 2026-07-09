@@ -1,32 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on
-- AI-powered applications using LLMs, RAG & Multi-Agent Systems
-- Machine Learning and Data Science projects
-- Intelligent chatbots and document analysis systems
+### 💫 About Me
 
-👯 I’m looking to collaborate on
-- Open Source AI/ML projects
-- Generative AI & Agentic AI
-- Python automation tools
+🔭 **Currently building** — AI-powered apps with LLMs, RAG & multi-agent systems; ML/data science projects; intelligent chatbots & document analysis tools
 
-🤝 I’m looking for help with
-- MLOps & Cloud Deployment
-- Production-ready AI systems
-- Open Source contributions
+🌱 **Currently learning** — Agentic AI, LangGraph, and MLOps for production-grade LLM systems
 
-🌱 I’m currently learning
-- Generative AI & Agentic AI
-- LLMs, RAG, LangChain & LangGraph
-- Deep Learning & MLOps
+👯 **Open to collaborating on** — Open-source AI/ML projects, Generative & Agentic AI, Python automation
 
-💬 Ask me about
-- Python
-- Machine Learning & Data Science
-- Generative AI & RAG
-- Streamlit & LangChain
+🤝 **Looking for help with** — MLOps, cloud deployment, and shipping production-ready AI systems
 
-⚡ Fun fact
-I love building AI solutions that solve real-world problems.
+💬 **Ask me about** — Python, ML/DS, RAG, LangChain/LangGraph, Streamlit
+
+⚡ **Fun fact** — I like building AI that solves problems people actually have, not just demos
 
 
 ## 🌐 Socials:
